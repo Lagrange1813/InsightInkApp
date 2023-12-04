@@ -6,7 +6,7 @@ InsightInk is a modern note-taking application.
 
 ## TestFlight
 
-The latest version of InsightInk is currently under review on TestFlight.
+https://testflight.apple.com/join/sYGFNGYy
 
 ## Preview
 
